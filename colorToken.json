@@ -378,6 +378,10 @@
           "description": "white"
         }
       }
+    },
+    "testColor": {
+      "value": "#c4c4c4",
+      "type": "color"
     }
   }
 }
